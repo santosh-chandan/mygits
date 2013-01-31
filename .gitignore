@@ -43,7 +43,6 @@ errors/
 favicon.ico
 get.php
 includes/
-index.php
 index.php.sample
 install.php
 js/blank.html
